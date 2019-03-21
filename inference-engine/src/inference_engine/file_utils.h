@@ -20,6 +20,8 @@
 #include <mach/mach.h>
 #endif
 
+#include <time.h>
+
 #include "ie_api.h"
 
 namespace FileUtils {
